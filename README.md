@@ -1,4 +1,8 @@
-# 🛍️ ProShop Ecommerce
+
+ 🛍️ ProShop eCommerce Platform build with MERN Stack & Redux, RTK
+ 
+ <img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/1b9fe47d-2be9-4060-afe7-bab993b4a6b4" />
+
 
 A full-featured eCommerce application built using the **MERN stack** (MongoDB, Express, React, Node.js) with support for:
 
@@ -8,17 +12,6 @@ A full-featured eCommerce application built using the **MERN stack** (MongoDB, E
 - Order management
 - PayPal payment integration
 - Image upload with Multer
-
----
-
-## 📦 Project Structure
-
-proshop-ecommerce/
-├── backend/ # Express + MongoDB API
-├── frontend/ # React.js client
-├── .env # Environment variables
-├── server.js # Main server file
-└── README.md
 
 ---
 
