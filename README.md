@@ -1,4 +1,4 @@
-# 🛒 ProShop E-Commerce – Full-Stack MERN Application
+# 🛒 ProShop eCommerce – Full-Stack MERN Application
 
 A complete online shopping platform built with MongoDB, Express.js, React, and Node.js. Featuring user authentication, admin control, product management, cart, order processing, and Stripe/PayPal payments.
 
