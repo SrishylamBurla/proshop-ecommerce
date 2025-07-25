@@ -1,8 +1,10 @@
+# 🛒 ProShop E-Commerce – Full-Stack MERN Application
 
- 🛍️ ProShop eCommerce Platform build with MERN Stack & Redux, RTK
- 
- <img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/1b9fe47d-2be9-4060-afe7-bab993b4a6b4" />
+A complete online shopping platform built with MongoDB, Express.js, React, and Node.js. Featuring user authentication, admin control, product management, cart, order processing, and Stripe/PayPal payments.
 
+Deployed Url: https://proshop-7fr5.onrender.com 
+
+<img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/1b9fe47d-2be9-4060-afe7-bab993b4a6b4" />
 
 A full-featured eCommerce application built using the **MERN stack** (MongoDB, Express, React, Node.js) with support for:
 
