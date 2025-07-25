@@ -39,7 +39,7 @@ npm install --prefix frontend
 | ---------------------- | ------------------------------------------ |
 | `npm start`            | Start Express server (backend only)        |
 | `npm run server`       | Run backend with nodemon                   |
-| `npm run client`       | Start React client only                    |
+| `npm start`            | Start React client only                    |
 | `npm run dev`          | Run both backend and frontend concurrently |
 | `npm run build`        | Build frontend for production              |
 | `npm run data:import`  | Seed sample products/users                 |
